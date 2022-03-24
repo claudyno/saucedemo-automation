@@ -45,3 +45,5 @@ WebUI.click(findTestObject('Object Repository/Checkout/button_Finish'))
 
 WebUI.delay(5)
 
+WebUI.closeBrowser()
+
